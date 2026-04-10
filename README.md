@@ -50,6 +50,44 @@ It provides a **user-friendly blue/cyan-themed interface** with real-time databa
 
 ---
 
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📸 Screenshots
+
+### 🔐 Login Page
+<p align="center">
+  <img src="images/login.png" width="850"/>
+</p>
+
+### 📊 Dashboard
+<p align="center">
+  <img src="images/dashboard.png" width="850"/>
+</p>
+
+### 👤 Guest Management
+<p align="center">
+  <img src="images/guest.png" width="850"/>
+</p>
+
+### 🛏️ Room Management
+<p align="center">
+  <img src="images/room.png" width="850"/>
+</p>
+
+### 📅 Reservation Module
+<p align="center">
+  <img src="images/reservation.png" width="850"/>
+</p>
+
+### 💳 Payment System
+<p align="center">
+  <img src="images/payment.png" width="850"/>
+</p>
+
+---
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ✨ Features
