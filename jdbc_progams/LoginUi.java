@@ -140,9 +140,9 @@ public class LoginUi extends javax.swing.JFrame {
 
     try {
         // Database credentials - REPLACE THESE VALUES WITH YOURS
-        String url = "jdbc:mysql://localhost:3306/hotel_management";
-        String dbUser = "root"; // your database username
-        String dbPassword = "zameer17"; // your database password
+        String url = "";
+        String dbUser = ""; // your database username
+        String dbPassword = ""; // your database password
 
         // Establish database connection
         con = DriverManager.getConnection(url, dbUser, dbPassword);
