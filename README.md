@@ -54,36 +54,20 @@ It provides a **user-friendly blue/cyan-themed interface** with real-time databa
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📸 Screenshots
+## 🎥 Application Preview
 
-### 🔐 Login Page
 <p align="center">
-  <img src="images/login.png" width="850"/>
-</p>
-
-### 📊 Dashboard
-<p align="center">
-  <img src="images/dashboard.png" width="850"/>
-</p>
-
-### 👤 Guest Management
-<p align="center">
-  <img src="images/guest.png" width="850"/>
-</p>
-
-### 🛏️ Room Management
-<p align="center">
-  <img src="images/room.png" width="850"/>
-</p>
-
-### 📅 Reservation Module
-<p align="center">
-  <img src="images/reservation.png" width="850"/>
-</p>
-
-### 💳 Payment System
-<p align="center">
-  <img src="images/payment.png" width="850"/>
+  <img src="./jdbc_programs/images/login.png" width="900" alt="Login Screen"/>
+  <br/><br/>
+  <img src="./jdbc_programs/images/dashboard.png" width="900" alt="Dashboard"/>
+  <br/><br/>
+  <img src="./jdbc_programs/images/guest.png" width="900" alt="Guest Management"/>
+  <br/><br/>
+  <img src="./jdbc_programs/images/room.png" width="900" alt="Room Management"/>
+  <br/><br/>
+  <img src="./jdbc_programs/images/reservation.png" width="900" alt="Reservation"/>
+  <br/><br/>
+  <img src="./jdbc_programs/images/payments.png" width="900" alt="Payments"/>
 </p>
 
 ---
