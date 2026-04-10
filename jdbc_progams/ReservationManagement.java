@@ -82,7 +82,7 @@ public class ReservationManagement extends javax.swing.JFrame {
     public void connect() {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            con = DriverManager.getConnection("jdbc:mysql://localhost/hotel_management", "root", "zameer17");
+            con = DriverManager.getConnection("jdbc:mysql://localhost/", "name", "password");
         } catch (Exception e) {
             JOptionPane.showMessageDialog(this, "DB Connection Error: " + e.getMessage());
         }
