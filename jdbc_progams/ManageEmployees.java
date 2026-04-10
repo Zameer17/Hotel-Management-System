@@ -82,7 +82,7 @@ public class ManageEmployees extends javax.swing.JFrame {
         df.setRowCount(0); // clear old data
 
         try (Connection con = DriverManager.getConnection(
-                "jdbc:mysql://localhost:3306/hotel_management", "root", "zameer17");
+                "jdbc:mysql://localhost:3306/", "name", "password");
              PreparedStatement pst = con.prepareStatement("SELECT * FROM employees");
              ResultSet rs = pst.executeQuery()) {
 
