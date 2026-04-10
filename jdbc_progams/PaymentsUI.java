@@ -103,7 +103,7 @@ jTable1.getSelectionModel().addListSelectionListener(e -> {
     public void connect() {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            con = DriverManager.getConnection("jdbc:mysql://localhost/hotel_management", "root", "zameer17"); // change user/pass
+            con = DriverManager.getConnection("jdbc:mysql://localhost/", "name", "password"); // change user/pass
         } catch (Exception e) {
             JOptionPane.showMessageDialog(this, "DB Connection Error: " + e.getMessage());
         }
