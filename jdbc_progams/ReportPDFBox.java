@@ -27,9 +27,9 @@ public class ReportPDFBox {
 
     private static Connection getConnection() throws Exception {
         return DriverManager.getConnection(
-                "jdbc:mysql://localhost:3306/hotel_management",
-                "root",
-                "zameer17"
+                "jdbc:mysql://localhost:3306/db_name",
+                "name",
+                "password"
         );
     }
 
